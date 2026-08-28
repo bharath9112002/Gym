@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160">
+  <defs>
+    <linearGradient id="beastRed" x1="0" y1="0" x2="180" y2="130" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff8a63" />
+      <stop offset="0.4" stop-color="#f42a35" />
+      <stop offset="1" stop-color="#8c0f16" />
+    </linearGradient>
+  </defs>
+
+  <path
+    fill="url(#beastRed)"
+    fill-rule="evenodd"
+    d="M6 104
+       Q14 82 34 68
+       L58 40
+       Q80 18 110 10
+       L148 4
+       L168 24
+       L140 34
+       L178 46
+       L158 66
+       Q172 78 172 96
+       Q166 116 144 124
+       L96 128
+       L66 112
+       L34 118
+       L20 104
+       Z
+       M10 98 L40 88 L22 112 Z"
+  />
+
+  <circle cx="100" cy="48" r="5.6" fill="#160305" />
+</svg>
